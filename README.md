@@ -42,9 +42,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='https://i.imgur.com/P8E4qAT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Click here to view the walkthrough GIF](https://i.imgur.com/P8E4qAT.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif...  
