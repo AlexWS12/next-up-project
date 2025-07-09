@@ -1,0 +1,9 @@
+img {
+  border-radius: 10px;
+}
+
+span {
+  margin-right: 10px;
+  text-decoration: underline;
+  cursor: pointer;
+}
